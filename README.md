@@ -2,7 +2,7 @@
 
 Learning how to make augmented reality android apps with ARCore using Screenform
 
-I got stuck since my Samsung Note 20 Ultra doesn't have an update for the latest ARCore SDK. Here are some (devices that are supported)[https://developers.google.com/ar/devices]
+I got stuck since my Samsung Note 20 Ultra doesn't have an update for the latest ARCore SDK. Here are some [devices that are supported](https://developers.google.com/ar/devices)
 
 
 ```xml
